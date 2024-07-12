@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.BarbeiroShop" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/mindnightblue</item> -->
+        <item name="colorPrimaryVariant">@color/mindnightblue</item> -->
+    </style>
+
+    <style name="Theme.BarbeiroShop" parent="Base.Theme.BarbeiroShop" />
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Barbeiro Shop</string>
+    <string name="barber_shop">Barber Shop</string>
+    <string name="nome">Nome</string>
+    <string name="senha">Senha</string>
+    <string name="login">LOGIN</string>
+</resources>
